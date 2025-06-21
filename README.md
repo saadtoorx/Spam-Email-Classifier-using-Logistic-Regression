@@ -35,11 +35,16 @@ This beginner-friendly machine learning project demonstrates how to build a bina
 
 ```
 spam-email-classifier/
-├── main.py                  # Core script for training and prediction
+├── spam_email_detector.py   # Main
+├── spam_email_detector.ipynb # Jupyter Notebook
 ├── email.csv                # Dataset (labeled spam and ham emails)
 ├── README.md                # Project documentation
 ├── LICENSE                  # MIT License
 ├── requirements.txt         # Required Python libraries
+└── images/
+    ├── confusion_matrix.png     # Confusion Matrix
+    └── output1.png     # output example
+    └── output2.png     # output example
 ```
 
 ---
